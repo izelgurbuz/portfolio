@@ -36,6 +36,15 @@ export const projectsData = [
     url: 'https://challenge-b65d5.web.app/',
     repo: 'https://github.com/izelgurbuz/Amazon-Clone', // if no repo, the button will not show up
   },
+  {
+    id: nanoid(),
+    img: 'project2.jpg',
+    title: 'PerfAnalytics',
+    info: 'PerfAnalytics is an ecosystem which collects and criticizes web performance data.\n ReactJs, Redux, NodeJs, Express JS, MongoDB, Jest JS, Docker, Github Actions, Heroku',
+    info2: '',
+    url: 'https://izelgurbuz-perfanalytics.herokuapp.com/',
+    repo: 'https://github.com/izelgurbuz/PerfAnalytics', // if no repo, the button will not show up
+  },
 ];
 
 // CONTACT DATA
