@@ -1,4 +1,10 @@
 module.exports = {
+	siteMetadata: {
+    title: `My Portfolio`,
+    description: ``,
+    author: `izelgurbuz`,
+    siteUrl: `https://izelgurbuz.com`
+  },
   plugins: [
     `gatsby-plugin-sass`,
     `gatsby-plugin-react-helmet`,
